@@ -1,0 +1,364 @@
+2025-04-12 12:18:44,749 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:18:44,801 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:19:53,372 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:19:53,372 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:21:44,314 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:21:44,370 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:22:07,688 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:22:07,691 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:22:20,498 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:22:20,550 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:22:27,824 - aiogram.event - INFO - Update id=851866906 is not handled. Duration 16 ms by bot id=7886237328
+2025-04-12 12:22:30,699 - aiogram.event - INFO - Update id=851866907 is not handled. Duration 16 ms by bot id=7886237328
+2025-04-12 12:22:58,370 - aiogram.event - INFO - Update id=851866908 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 12:25:11,528 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:25:11,528 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:27:40,979 - services.logger - INFO - func 'Main' has been running
+2025-04-12 12:27:41,153 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:27:41,207 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:30:14,492 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:30:14,493 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:33:31,971 - services.logger - INFO - func 'Main' has been running
+2025-04-12 12:33:32,168 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:33:32,224 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:33:34,179 - aiogram.event - INFO - Update id=851866909 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 12:34:06,442 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:34:06,442 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:34:09,488 - services.logger - INFO - func 'Main' has been running
+2025-04-12 12:34:09,663 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:34:09,720 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:34:14,216 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:34:14,216 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:34:21,093 - services.logger - INFO - func 'Main' has been running
+2025-04-12 12:34:21,258 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:34:21,307 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:40:23,881 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:40:23,882 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:40:28,538 - services.logger - INFO - func 'Main' has been running
+2025-04-12 12:40:28,709 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:40:28,760 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:41:11,930 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 12:41:11,931 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:41:15,033 - services.logger - INFO - func 'Main' has been running
+2025-04-12 12:41:15,226 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 12:41:15,295 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 12:41:15,350 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:41:39,954 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 12:41:39,954 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:09:04,072 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:09:04,351 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:09:04,410 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:09:04,465 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:09:19,197 - aiogram.event - INFO - Update id=851866910 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 14:09:19,197 - aiogram.event - ERROR - Cause exception while process update id=851866910 by bot id=7886237328
+ValidationError: 2 validation errors for ReplyKeyboardMarkup
+keyboard.0
+  Input should be a valid list [type=list_type, input_value='�����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+keyboard.1
+  Input should be a valid list [type=list_type, input_value='�� ����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+Traceback (most recent call last):
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\hanlders\important_handlers.py", line 12, in start_process
+    await message.answer(data["/start"], reply_markup=choice_to_play_the_game_keyboard())
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\keyboards\keyboards.py", line 6, in choice_to_play_the_game_keyboard
+    return ReplyKeyboardMarkup(keyboard=data["inline_keyboards"]["choice_to_play_the_game_kb"], one_time_keyboard=True)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for ReplyKeyboardMarkup
+keyboard.0
+  Input should be a valid list [type=list_type, input_value='�����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+keyboard.1
+  Input should be a valid list [type=list_type, input_value='�� ����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/list_type
+2025-04-12 14:11:26,889 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:11:26,890 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:11:34,342 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:11:34,552 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:11:34,623 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:11:34,691 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:11:39,962 - aiogram.event - INFO - Update id=851866911 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 14:11:39,962 - aiogram.event - ERROR - Cause exception while process update id=851866911 by bot id=7886237328
+ValidationError: 2 validation errors for ReplyKeyboardMarkup
+keyboard.0.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='�����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+keyboard.0.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='�� ����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+Traceback (most recent call last):
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\hanlders\important_handlers.py", line 12, in start_process
+    await message.answer(data["/start"], reply_markup=choice_to_play_the_game_keyboard())
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\keyboards\keyboards.py", line 6, in choice_to_play_the_game_keyboard
+    return ReplyKeyboardMarkup(keyboard=[data["inline_keyboards"]["choice_to_play_the_game_kb"]], one_time_keyboard=True)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\pydantic\main.py", line 214, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for ReplyKeyboardMarkup
+keyboard.0.0
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='�����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+keyboard.0.1
+  Input should be a valid dictionary or instance of KeyboardButton [type=model_type, input_value='�� ����', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/model_type
+2025-04-12 14:14:52,008 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:14:52,009 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:14:57,083 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:14:57,286 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:14:57,423 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:14:57,490 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:15:00,267 - aiogram.event - INFO - Update id=851866912 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 14:15:00,267 - aiogram.event - ERROR - Cause exception while process update id=851866912 by bot id=7886237328
+TypeError: __init__() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\hanlders\important_handlers.py", line 12, in start_process
+    await message.answer(data["/start"], reply_markup=choice_to_play_the_game_keyboard())
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\keyboards\keyboards.py", line 7, in choice_to_play_the_game_keyboard
+    keyboard=[[KeyboardButton(name) for name in data["inline_keyboards"]["choice_to_play_the_game_kb"]]],
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\keyboards\keyboards.py", line 7, in <listcomp>
+    keyboard=[[KeyboardButton(name) for name in data["inline_keyboards"]["choice_to_play_the_game_kb"]]],
+TypeError: __init__() takes 1 positional argument but 2 were given
+2025-04-12 14:16:59,521 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:16:59,521 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:17:17,982 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:17:18,179 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:17:18,241 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:17:18,312 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:17:28,164 - aiogram.event - INFO - Update id=851866914 is handled. Duration 217 ms by bot id=7886237328
+2025-04-12 14:17:36,734 - aiogram.event - INFO - Update id=851866915 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 14:27:36,524 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:27:36,524 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:27:40,153 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:27:40,338 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:27:40,414 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:27:40,490 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:27:40,823 - aiogram.event - INFO - Update id=851866916 is handled. Duration 266 ms by bot id=7886237328
+2025-04-12 14:27:41,978 - aiogram.event - INFO - Update id=851866917 is handled. Duration 156 ms by bot id=7886237328
+2025-04-12 14:27:50,388 - aiogram.event - INFO - Update id=851866918 is handled. Duration 77 ms by bot id=7886237328
+2025-04-12 14:27:53,832 - aiogram.event - INFO - Update id=851866919 is handled. Duration 108 ms by bot id=7886237328
+2025-04-12 14:30:45,628 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:30:45,628 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:30:50,206 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:30:50,399 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:30:50,464 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:30:50,539 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:30:50,820 - aiogram.event - INFO - Update id=851866920 is handled. Duration 188 ms by bot id=7886237328
+2025-04-12 14:30:52,405 - aiogram.event - INFO - Update id=851866921 is handled. Duration 125 ms by bot id=7886237328
+2025-04-12 14:30:54,543 - aiogram.event - INFO - Update id=851866922 is handled. Duration 186 ms by bot id=7886237328
+2025-04-12 14:31:48,680 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:31:48,681 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:31:54,505 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:31:54,693 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:31:54,791 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:31:54,858 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:31:56,690 - aiogram.event - INFO - Update id=851866923 is handled. Duration 218 ms by bot id=7886237328
+2025-04-12 14:31:58,302 - aiogram.event - INFO - Update id=851866924 is handled. Duration 77 ms by bot id=7886237328
+2025-04-12 14:31:59,764 - aiogram.event - INFO - Update id=851866925 is handled. Duration 77 ms by bot id=7886237328
+2025-04-12 14:32:07,345 - aiogram.event - INFO - Update id=851866926 is handled. Duration 125 ms by bot id=7886237328
+2025-04-12 14:46:31,081 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:46:31,081 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:46:34,577 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:46:34,772 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:46:34,852 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:46:34,907 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:46:36,329 - aiogram.event - INFO - Update id=851866927 is handled. Duration 358 ms by bot id=7886237328
+2025-04-12 14:46:37,683 - aiogram.event - INFO - Update id=851866928 is handled. Duration 188 ms by bot id=7886237328
+2025-04-12 14:46:40,194 - aiogram.event - INFO - Update id=851866929 is handled. Duration 93 ms by bot id=7886237328
+2025-04-12 14:48:39,700 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:48:39,700 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:48:44,313 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:48:44,506 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:48:44,569 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:48:44,628 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:48:51,089 - aiogram.event - INFO - Update id=851866930 is handled. Duration 187 ms by bot id=7886237328
+2025-04-12 14:48:51,820 - aiogram.event - INFO - Update id=851866931 is handled. Duration 79 ms by bot id=7886237328
+2025-04-12 14:48:53,027 - aiogram.event - INFO - Update id=851866932 is handled. Duration 171 ms by bot id=7886237328
+2025-04-12 14:51:40,427 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:51:40,427 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:51:45,226 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:51:45,408 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:51:45,488 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:51:45,545 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:51:46,076 - aiogram.event - INFO - Update id=851866934 is handled. Duration 297 ms by bot id=7886237328
+2025-04-12 14:51:49,510 - aiogram.event - INFO - Update id=851866935 is handled. Duration 77 ms by bot id=7886237328
+2025-04-12 14:51:50,856 - aiogram.event - INFO - Update id=851866936 is handled. Duration 78 ms by bot id=7886237328
+2025-04-12 14:52:18,156 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:52:18,156 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:52:24,845 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:52:25,017 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:52:25,082 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:52:25,132 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:52:27,439 - aiogram.event - INFO - Update id=851866939 is handled. Duration 250 ms by bot id=7886237328
+2025-04-12 14:52:28,340 - aiogram.event - INFO - Update id=851866940 is handled. Duration 125 ms by bot id=7886237328
+2025-04-12 14:52:29,348 - aiogram.event - INFO - Update id=851866941 is handled. Duration 188 ms by bot id=7886237328
+2025-04-12 14:54:58,211 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:54:58,211 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:55:02,827 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:55:03,026 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:55:03,086 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:55:03,136 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:55:03,723 - aiogram.event - INFO - Update id=851866944 is handled. Duration 266 ms by bot id=7886237328
+2025-04-12 14:55:05,107 - aiogram.event - INFO - Update id=851866945 is handled. Duration 125 ms by bot id=7886237328
+2025-04-12 14:55:05,732 - services.logger - INFO - The bot has chosen the �� ����
+2025-04-12 14:55:05,732 - aiogram.event - INFO - Update id=851866946 is not handled. Duration 0 ms by bot id=7886237328
+2025-04-12 14:55:05,732 - aiogram.event - ERROR - Cause exception while process update id=851866946 by bot id=7886237328
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\79660\PycharmProjects\TGBot_rock-paper-scissors\handlers\important_handlers.py", line 48, in message_total_of_the_game
+    if message.text == items[2]: # ������
+IndexError: list index out of range
+2025-04-12 14:55:39,303 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:55:39,303 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:55:43,962 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:55:44,180 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:55:44,241 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:55:44,302 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:55:46,803 - aiogram.event - INFO - Update id=851866949 is handled. Duration 218 ms by bot id=7886237328
+2025-04-12 14:55:47,710 - aiogram.event - INFO - Update id=851866950 is handled. Duration 78 ms by bot id=7886237328
+2025-04-12 14:55:48,531 - services.logger - INFO - The bot has chosen the �������
+2025-04-12 14:55:48,695 - aiogram.event - INFO - Update id=851866951 is handled. Duration 172 ms by bot id=7886237328
+2025-04-12 14:55:49,730 - aiogram.event - INFO - Update id=851866952 is handled. Duration 78 ms by bot id=7886237328
+2025-04-12 14:58:29,470 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:58:29,470 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-12 14:58:40,440 - services.logger - INFO - func 'Main' has been running
+2025-04-12 14:58:40,630 - services.logger - INFO - Computer is uploading the commands
+2025-04-12 14:58:40,688 - aiogram.dispatcher - INFO - Start polling
+2025-04-12 14:58:40,750 - aiogram.dispatcher - INFO - Run polling for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 14:58:43,761 - aiogram.event - INFO - Update id=851866953 is handled. Duration 202 ms by bot id=7886237328
+2025-04-12 14:58:50,006 - aiogram.event - INFO - Update id=851866954 is handled. Duration 93 ms by bot id=7886237328
+2025-04-12 14:58:54,018 - services.logger - INFO - The bot has chosen the Ножницы
+2025-04-12 14:58:54,176 - aiogram.event - INFO - Update id=851866955 is handled. Duration 156 ms by bot id=7886237328
+2025-04-12 14:59:08,653 - aiogram.event - INFO - Update id=851866956 is handled. Duration 109 ms by bot id=7886237328
+2025-04-12 14:59:55,072 - services.logger - INFO - The bot has chosen the Камень
+2025-04-12 14:59:55,248 - aiogram.event - INFO - Update id=851866957 is handled. Duration 170 ms by bot id=7886237328
+2025-04-12 15:00:02,943 - aiogram.event - INFO - Update id=851866958 is handled. Duration 157 ms by bot id=7886237328
+2025-04-12 15:03:42,857 - aiogram.dispatcher - INFO - Polling stopped for bot @AlagoneBot id=7886237328 - 'FirstBot'
+2025-04-12 15:03:42,857 - aiogram.dispatcher - INFO - Polling stopped
